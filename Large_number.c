@@ -1,9 +1,4 @@
-// write a program to find a large number of two input
 
-// 1 2 0 = 0
-// 24 24 50 = 24 
-// 2 2 2 = equal;
-// 24 50 24 = 24
     #include<stdio.h>
     int main (){
         int num1,num2,num3;
