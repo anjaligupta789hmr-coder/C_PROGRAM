@@ -5,8 +5,11 @@ int main (){
     scanf("%d",&a);
     
     
-    if(a>=0){
+    if(a>0){
         printf("Positive Number");
+    }
+    else if(a==0){
+        printf("%d is neither positive nor negative",a);
     }
     else {
         printf("Negative Number");
